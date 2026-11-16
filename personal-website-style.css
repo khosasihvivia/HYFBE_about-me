@@ -1,0 +1,6 @@
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
